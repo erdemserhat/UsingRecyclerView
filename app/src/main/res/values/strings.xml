@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Using RecyclerView</string>
+    <string name="programming_language_list">Programming Language List</string>
+</resources>
